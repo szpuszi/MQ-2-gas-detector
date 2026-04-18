@@ -30,7 +30,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - Silkscreen: White
 - Copper Layers: 2
 
-# Assembly etc tutorial:
+# Assembly and coding tutorial:
 ## SOON
 
 # Gallery📷
