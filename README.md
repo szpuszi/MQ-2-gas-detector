@@ -22,6 +22,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - 12x9.5mm Active Buzzer (RM.7.5)
 - basic soldering kit (iron, solder, wire cutters)
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
+- USBasp
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included here [Download Manufacturing Files.zip](./Manufacturing%20Files.zip) </small>
