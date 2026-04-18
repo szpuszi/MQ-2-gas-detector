@@ -31,7 +31,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - Copper Layers: 2
 
 # Assembly and coding tutorial:
-## SOON
+**SOON**
 
 # Gallery📷
 <img width="1369" height="878" alt="obraz" src="https://github.com/user-attachments/assets/a792a999-cef8-431e-8a85-e26859010e1d" />
@@ -40,4 +40,4 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 <img width="823" height="850" alt="obraz" src="https://github.com/user-attachments/assets/1e227924-e5a9-457a-88d4-b7c1b7db145c" />
 <img width="737" height="769" alt="obraz" src="https://github.com/user-attachments/assets/f841c418-4184-4f2c-8afc-099da067c6ec" />
 
-I will be trying to keep this project ALIVE!
+# I will try to keep this project ALIVE!
