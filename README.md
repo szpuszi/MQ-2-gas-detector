@@ -44,5 +44,3 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 <img width="1375" height="560" alt="obraz" src="https://github.com/user-attachments/assets/5117901d-8781-41e4-9da2-99ff4aabde00" />
 <img width="823" height="850" alt="obraz" src="https://github.com/user-attachments/assets/1e227924-e5a9-457a-88d4-b7c1b7db145c" />
 <img width="737" height="769" alt="obraz" src="https://github.com/user-attachments/assets/f841c418-4184-4f2c-8afc-099da067c6ec" />
-
-# I will try to keep this project ALIVE!
