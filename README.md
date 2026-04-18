@@ -20,8 +20,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - 2x3 Female Header (for ISP programming interface)
 - 1x4 Female Header (for the MQ-2 sensor)
 - 12x9.5mm Active Buzzer (RM.7.5)
-- DIP-28 socket (not necesarry but very helpfull)
-- + basic soldering kit (iron, solder, wire cutters)
+- basic soldering kit (iron, solder, wire cutters)
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
 
 ### Manufacturing Notes🏭:
