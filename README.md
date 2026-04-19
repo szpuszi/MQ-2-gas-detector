@@ -37,7 +37,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 ![Zine Page](images/zine_page.png)
 
 # Assembly and firmware
-Refer to the schematic and PCB layout for assembly. The PCB features a well detaied silkscreen with all components values and identifiers clearly marked to ensure easy and error-free assembly. The firmware is available [here](firmware/gas_detector.ino)
+Refer to the schematic and PCB layout for assembly. The PCB features a well detailed silkscreen with all components values and identifiers clearly marked to ensure easy and error-free assembly. The firmware is available [here](firmware/gas_detector.ino)
 # Gallery📷
 <img width="1369" height="878" alt="obraz" src="https://github.com/user-attachments/assets/a792a999-cef8-431e-8a85-e26859010e1d" />
 <img width="650" height="664" alt="obraz" src="https://github.com/user-attachments/assets/d8eb2982-51eb-46fd-9328-12b675dc514b" />
