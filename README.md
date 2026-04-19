@@ -29,6 +29,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - basic soldering kit (iron, solder, wire cutters)
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
 - USBasp
+- Double Sided Tape
 - maybe some jumper wires or some wires (not necesarry) 
 
 ### Manufacturing Notes🏭:
