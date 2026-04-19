@@ -30,7 +30,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
 - USBasp
 - Double Sided Tape
-- maybe some jumper wires or some wires (not necesarry) 
+- DuPont Wires
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
