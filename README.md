@@ -33,7 +33,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - Copper Layers: 2
 
 ## 📖 Fallout Zine Page
-![Zine Page](zine_page.png)
+![Zine Page](images/zine_page.png)
 
 # Assembly and coding tutorial:
 **SOON**
