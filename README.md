@@ -22,8 +22,9 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - Ceramic capacitors (4x 100nF, 2x 22pF)
 - LEDs (1x 5mm red LED, 1x 5mm yellow LED, 1x 5mm green LED)
 - HC-49 Crystal 16MHz
-- 2x3 male Header (for ISP programming interface)
+- 2x3 Male Header (for ISP programming interface)
 - 1x4 Female Header (for the MQ-2 sensor)
+- 1x8 Male header (for Adafruit 4090)
 - 12x9.5mm Active Buzzer (RM.7.5)
 - basic soldering kit (iron, solder, wire cutters)
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
