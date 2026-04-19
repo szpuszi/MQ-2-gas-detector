@@ -14,7 +14,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 <small> Thresholds were calibrated based on local home testing, sensitivity can vary depending on environment and gas type. </small>
 
 ### Shopping list 🛒: 
-<small> The shopping list is also available [here](Manufacturing/BOM.csv) </small>
+<small> BOM is available [here](Manufacturing/BOM.csv) </small>
 - ATmega328P microcontroller
 - MQ-2 gas sensor
 - Adafruit USB Type C Breakout Board - Downstream Connection (ID:4090)
@@ -31,6 +31,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - USBasp
 - Double Sided Tape
 - DuPont Wires
+- Glue (some glue that sticks to plastic)
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
