@@ -1,7 +1,7 @@
 # MQ-2 Gas Detector V1.0
 It's my first custom PCB project created as part of the Hack Club Fallout.
 It is designed to detect gas leaks and potential fire hazards.
-I made this because i wanted to learn how the MQ-2 sensor works with ATmega328P, practice making PCBs and create a practical safety device.
+I made this because I wanted to practice making PCBs and create a practical safety device.
 I use it by letting it sit and monitor gas levels in my room to ensure I'm in a safe environment.
 
 <small> Note: This project consists of the PCB only (no external enclosure). The 3D source is provided via the KiCad project files and the exported STEP model.
