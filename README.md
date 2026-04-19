@@ -2,6 +2,7 @@
 It's my first custom PCB project created as part of the Hack Club Fallout.
 It is designed to detect gas leaks and potential fire hazards.
 I made this because i wanted to learn how the MQ-2 sensor works with ATmega328P, practice making PCBs and create a practical safety device.
+I use it by letting it sit and monitor gas levels in my room to ensure I'm in a safe environment.
 
 ## How it works:
 The heart of this project is ATmega328P microcontroller. The board is powered via 5V USB-C (Adafruit 4090) It monitors gas levels in the air using an MQ-2 sensor and indicates safety levels by 3 LEDs and a buzzer:
