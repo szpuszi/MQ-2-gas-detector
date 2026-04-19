@@ -5,18 +5,37 @@ int greenLed = 7;
 int redLed = 8;
 int buzzer = 9;
 
-int baseline = 110;
+int baseline =105;
 int threshold = baseline + 80; 
 
 void setup() {
   Serial.begin(9600);
 
-  pinMode(yellowLed, OUTPUT);
+  pinMode(yellowLed, OUTPUT); 
   pinMode(greenLed, OUTPUT);
   pinMode(redLed, OUTPUT);
   pinMode(buzzer, OUTPUT);
 
-  Serial.println("MQ-2 gotowy...");
+  Serial.println("TEST");
+  digitalWrite(greenLed, HIGH);
+  digitalWrite(yellowLed, HIGH);
+  digitalWrite(redLed, HIGH);
+  digitalWrite(buzzer, HIGH);
+
+  delay(100);
+
+  digitalWrite(greenLed, LOW);
+  digitalWrite(yellowLed, LOW);
+  digitalWrite(redLed, LOW);
+  digitalWrite(buzzer, LOW);
+
+  delay(1000);
+
+  Serial.println("Heating (60s left)");
+  for(int i=0; i<60; i++) { digitalWrite(yellowLed, ! digitalRead(yellowLed)); delay(1000); }
+
+  Serial.println("READY");
+
 }
 
 void loop() {
