@@ -3,7 +3,7 @@ U1,ATmega328P-P,1,Microcontroller (DIP-28),https://www.digikey.com/en/products/d
 MQ-2,MQ-2,1,Gas Sensor Module,https://www.digikey.com/en/products/detail/olimex-ltd/SNS-MQ2/21662532
 J2,Conn_01x08,1,USB Type C Breakout Board - Downstream Connection,https://www.adafruit.com/product/4090
 R1-R3,220R,3,Resistor for LEDs (Through-hole),https://www.adafruit.com/product/2780
-R4,10R,1,Pull-up Resistor (Through-hole),https://www.adafruit.com/product/2784
+R4,10K,1,Pull-up Resistor (Through-hole),https://www.adafruit.com/product/2784
 "C1,C2,C5,C6",100nF,4,Ceramic Capacitor,https://www.adafruit.com/product/753
 "C3,C4",22pF,2,Ceramic Capacitor for Crystal,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K220J15C0GF53L2/2821623
 Y1,16MHz,1,HC-49 Crystal,https://www.adafruit.com/product/2215
