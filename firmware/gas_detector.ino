@@ -31,7 +31,7 @@
 
     delay(1000);
 
-    Serial.println("Heating (3mins left)");
+    Serial.println("Heating (5 mins left)");
     for(int i=0; i<300; i++) { digitalWrite(yellowLed, ! digitalRead(yellowLed)); delay(1000); }
 
     Serial.println("READY");
