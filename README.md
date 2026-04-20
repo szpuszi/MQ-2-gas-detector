@@ -53,6 +53,7 @@ Refer to the schematic and PCB layout for assembly. The PCB features a well deta
 <img width="1369" height="878" alt="obraz" src="https://github.com/user-attachments/assets/a792a999-cef8-431e-8a85-e26859010e1d" />
 <img width="650" height="664" alt="obraz" src="https://github.com/user-attachments/assets/d8eb2982-51eb-46fd-9328-12b675dc514b" />
 <img width="1375" height="560" alt="obraz" src="https://github.com/user-attachments/assets/5117901d-8781-41e4-9da2-99ff4aabde00" />
-<img width="823" height="850" alt="obraz" src="https://github.com/user-attachments/assets/1e227924-e5a9-457a-88d4-b7c1b7db145c" />
-<img width="1169" height="1195" alt="image" src="https://github.com/user-attachments/assets/f0528e0f-f0de-4662-9652-c1247eb3d803" />
+<img width="813" height="837" alt="obraz" src="https://github.com/user-attachments/assets/b4c7baa5-f847-4089-88d9-5c51532a8d2f" />
+<img width="605" height="588" alt="obraz" src="https://github.com/user-attachments/assets/99abc0d9-64d8-4e3d-a5c0-b358b88eeb3a" />
+
 
