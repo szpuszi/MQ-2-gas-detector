@@ -5,7 +5,7 @@ int greenLed = 7;
 int redLed = 8;
 int buzzer = 9;
 
-int baseline =105;
+int baseline = 110;
 int threshold = baseline + 80; 
 
 void setup() {
