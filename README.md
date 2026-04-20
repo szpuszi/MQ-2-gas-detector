@@ -30,7 +30,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
 - USBasp
 - Double Sided Tape
-- DuPont Wires
+- DuPont Male/Female wires
 - Glue (some glue that sticks to plastic)
 
 ### Manufacturing Notes🏭:
