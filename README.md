@@ -31,7 +31,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - USBasp
 - Double Sided Tape
 - DuPont Male/Female wires
-- Glue (some glue that sticks to plastic)
+- Glue (for the case, it needs to stick to plastic)
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
