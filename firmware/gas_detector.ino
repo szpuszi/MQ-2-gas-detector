@@ -5,8 +5,8 @@
   int redLed = 8;
   int buzzer = 9;
 
-  int baseline = 110;
-  int threshold = baseline + 80; 
+  int baseline = 110;  // test in your environment
+  int threshold = baseline + 80;  // test in your environment
 
   void setup() {
     Serial.begin(9600);
@@ -32,7 +32,7 @@
     delay(1000);
 
     Serial.println("Heating (3mins left)");
-    for(int i=0; i<180; i++) { digitalWrite(yellowLed, ! digitalRead(yellowLed)); delay(1000); }
+    for(int i=0; i<300; i++) { digitalWrite(yellowLed, ! digitalRead(yellowLed)); delay(1000); }
 
     Serial.println("READY");
 
@@ -52,7 +52,7 @@
       digitalWrite(buzzer, HIGH);
   }
 
-      else if (value > baseline + 30) {
+      else if (value > baseline + 30) {   // test in your environment
       // 🟡 
       digitalWrite(redLed, LOW);
       digitalWrite(yellowLed, HIGH);
