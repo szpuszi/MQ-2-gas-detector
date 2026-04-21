@@ -7,7 +7,7 @@ I made this because I wanted to practice making PCBs and create a practical safe
 I use it by letting it sit and monitor gas levels in my room to ensure I'm in a safe environment.
 
 ## How it works:
-The heart of this project is ATmega328P microcontroller. The board is powered via 5V USB-C (Adafruit 4090). The firmware features pre-heating phase (60s) and a startup test function which lights up the LEDs and beeps the buzzer so you can know if it works correctly. It monitors gas levels in the air using an MQ-2 sensor and indicates safety levels by 3 LEDs and a buzzer:
+The heart of this project is ATmega328P microcontroller. The board is powered via 5V USB-C (Adafruit 4090). The firmware features pre-heating phase (5mins) and a startup test function which lights up the LEDs and beeps the buzzer so you can know if it works correctly. It monitors gas levels in the air using an MQ-2 sensor and indicates safety levels by 3 LEDs and a buzzer:
 - 🟢 Air is safe.
 - 🟡 Gas levels are elevated. (warning)
 - 🔴 High gas levels, it may be unsafe to inhale them.
