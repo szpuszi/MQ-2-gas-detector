@@ -8,7 +8,7 @@ R4,10K,1,Pull-up Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rez
 "C3,C4",22pF,2,Ceramic Capacitors for Crystal,https://allegro.pl/produkt/kondensator-ceramiczny-22pf-50v-10szt-raster-5-91fd0173-13ec-4f39-bfed-c8610bd964cb?offerId=13624968332
 Y1,16MHz,1,HC-49 Crystal,https://botland.com.pl/rezonatory/166-rezonator-kwarcowy-16mhz-hc49-niski-10szt-5904422358761.html
 "D1,D2,D3","LED_G,LED_Y,LED_R",1,"G,Y,R LED",https://botland.com.pl/diody-led/19985-zestaw-diod-led-5mm-justpi-30szt-5904422329259.html
-BZ1,Buzzer,1,12x9.5mm Active Buzzer (RM.7.5),https://www.amazon.com/dp/B0F1KCZGZG/ref=twister_B0FP83KQTB?_encoding=UTF8&th=1
+BZ1,Buzzer,1,12x9.5mm Active Buzzer (RM.7.5),https://allegro.pl/oferta/buzzer-aktywny-z-generatorem-5v-85db-16547323388?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=MTlkZmQ1ZTUtZGEzNS00ZmQ1LTk5NGUtYWZiMWM3NTBlMTMzAA&bi_t=ape&referrer=proxy&emission_unit_id=e772d763-a6a7-4456-b3ce-356fbd1f459d
 J1,ISP,1,ISP programming interface,https://www.adafruit.com/product/2822
 none,none,1,Adafruit 4090 Male Header,https://www.adafruit.com/product/400
 none,none,1,MQ-2 sensor female header,https://www.digikey.com/en/products/detail/samtec-inc/ESQT-104-03-M-S-310/5270322
