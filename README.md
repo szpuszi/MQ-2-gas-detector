@@ -32,6 +32,7 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - Double Sided Tape
 - DuPont Male/Female wires
 - Glue (for the case, it needs to stick to plastic)
+- wire cutters
 
 Total for everything is ≈ 32.76USD
 
