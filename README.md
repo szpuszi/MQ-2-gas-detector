@@ -33,6 +33,8 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 - DuPont Male/Female wires
 - Glue (for the case, it needs to stick to plastic)
 
+Total for everything is ≈ 32.76USD
+
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
 - PCB Color: Black
