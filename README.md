@@ -15,20 +15,9 @@ The heart of this project is ATmega328P microcontroller. The board is powered vi
 
 ### Shopping list 🛒: 
 <small> BOM is available [here](Manufacturing/BOM.csv) </small>
-- ATmega328P microcontroller
-- MQ-2 gas sensor
-- Adafruit USB Type C Breakout Board - Downstream Connection (ID:4090)
-- Resistors (3x 220Ω, 1x 10KΩ)
-- Ceramic capacitors (4x 100nF, 2x 22pF)
-- LEDs (1x 5mm red LED, 1x 5mm yellow LED, 1x 5mm green LED)
-- HC-49 Crystal 16MHz
-- 2x3 Male Header (for ISP programming interface)
-- 1x4 Female Header (for the MQ-2 sensor)
-- 1x8 Male header (for Adafruit 4090)
-- 12x9.5mm Active Buzzer (RM.7.5)
-- basic soldering kit (iron, solder, wire cutters)
+You will also need:
+- basic soldering kit (soldering iron, solder)
 - PCB (can order on websites like JLCPCB, files for them are in Manufacturing Files.zip folder)
-- USBasp
 - Double Sided Tape
 - DuPont Male/Female wires
 - Glue (for the case, it needs to stick to plastic)
