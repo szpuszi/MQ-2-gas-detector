@@ -1,5 +1,5 @@
 Designator,Value,Quantity,Description,Link
-U1,ATmega328P-P,1,Microcontroller (DIP-28),https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-PU/1914589
+U1,ATmega328P-P,1,Microcontroller (DIP-28),https://botland.com.pl/avr-w-obudowie-tht/1264-mikrokontroler-avr-atmega328p-u-dip-5903351249928.html
 MQ-2,MQ-2,1,Gas Sensor Module,https://www.digikey.com/en/products/detail/olimex-ltd/SNS-MQ2/21662532
 J2,Conn_01x08,1,USB Type C Breakout Board - Downstream Connection,https://www.adafruit.com/product/4090
 R1-R3,220R,3,Resistor for LEDs (Through-hole),https://www.adafruit.com/product/2780
