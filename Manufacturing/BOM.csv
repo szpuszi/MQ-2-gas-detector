@@ -5,7 +5,7 @@ J2,Conn_01x08,1,USB Type C Breakout Board - Downstream Connection,https://www.ad
 R1-R3,220R,3,Resistor for LEDs,https://botland.com.pl/rezystory-przewlekane/20014-rezystor-justpi-tht-cf-weglowy-14w-220-30szt-5904422329020.html
 R4,10K,1,Pull-up Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
 "C1,C2,C5,C6",100nF,4,Ceramic Capacitor,https://allegro.pl/produkt/kondensator-ceramiczny-100nf-50v-20szt-34571a79-9f0e-4410-b92e-28d50d95ad61?offerId=11813029272
-"C3,C4",22pF,2,Ceramic Capacitors for Crystal,https://www.digikey.com/en/products/detail/vishay-beyschlag-draloric-bc-components/K220J15C0GF53L2/2821623
+"C3,C4",22pF,2,Ceramic Capacitors for Crystal,https://allegro.pl/produkt/kondensator-ceramiczny-22pf-50v-10szt-raster-5-91fd0173-13ec-4f39-bfed-c8610bd964cb?offerId=13624968332
 Y1,16MHz,1,HC-49 Crystal,https://www.adafruit.com/product/2215
 "D1,D2,D3","LED_G,LED_Y,LED_R",1,"G,Y,R LED",https://www.adafruit.com/product/4203
 BZ1,Buzzer,1,12x9.5mm Active Buzzer (RM.7.5),https://www.amazon.com/dp/B0F1KCZGZG/ref=twister_B0FP83KQTB?_encoding=UTF8&th=1
