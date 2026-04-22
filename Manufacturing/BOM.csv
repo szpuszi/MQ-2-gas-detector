@@ -9,7 +9,7 @@ R4,10K,1,Pull-up Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rez
 Y1,16MHz,1,HC-49 Crystal,https://botland.com.pl/rezonatory/166-rezonator-kwarcowy-16mhz-hc49-niski-10szt-5904422358761.html
 "D1,D2,D3","LED_G,LED_Y,LED_R",1,"G,Y,R LED",https://botland.com.pl/diody-led/19985-zestaw-diod-led-5mm-justpi-30szt-5904422329259.html
 BZ1,Buzzer,1,12x9.5mm Active Buzzer (RM.7.5),https://allegro.pl/oferta/buzzer-aktywny-z-generatorem-5v-85db-16547323388?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=MTlkZmQ1ZTUtZGEzNS00ZmQ1LTk5NGUtYWZiMWM3NTBlMTMzAA&bi_t=ape&referrer=proxy&emission_unit_id=e772d763-a6a7-4456-b3ce-356fbd1f459d
-J1,ISP,1,ISP programming interface,https://www.adafruit.com/product/2822
+J1,ISP,1,ISP programming interface,https://botland.com.pl/gniazda-szpilkowe-goldpin/5873-gniazdo-zenskie-2x3-raster-254mm-5-szt-5904422374693.html
 none,none,1,Adafruit 4090 Male Header,https://botland.com.pl/akcesoria-do-raspberry-pi-pico/18854-zestaw-zlacz-meskich-do-gpio-raspberry-pi-pico-5904422328511.html
 none,none,1,MQ-2 sensor female header,https://botland.com.pl/gniazda-szpilkowe-goldpin/8503-gniazdo-proste-1x4pin-raster-254mm-pionowe-10szt-5904422336554.html
 none,none,1,Breadboard (for connecting the microcontroller with arduino for programming),https://botland.com.pl/plytki-stykowe/19943-plytka-stykowa-justpi-830-otworow-5904422328610.html
