@@ -7,7 +7,7 @@ R4,10K,1,Pull-up Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rez
 "C1,C2,C5,C6",100nF,4,Ceramic Capacitor,https://allegro.pl/produkt/kondensator-ceramiczny-100nf-50v-20szt-34571a79-9f0e-4410-b92e-28d50d95ad61?offerId=11813029272
 "C3,C4",22pF,2,Ceramic Capacitors for Crystal,https://allegro.pl/produkt/kondensator-ceramiczny-22pf-50v-10szt-raster-5-91fd0173-13ec-4f39-bfed-c8610bd964cb?offerId=13624968332
 Y1,16MHz,1,HC-49 Crystal,https://botland.com.pl/rezonatory/166-rezonator-kwarcowy-16mhz-hc49-niski-10szt-5904422358761.html
-"D1,D2,D3","LED_G,LED_Y,LED_R",1,"G,Y,R LED",https://www.adafruit.com/product/4203
+"D1,D2,D3","LED_G,LED_Y,LED_R",1,"G,Y,R LED",https://botland.com.pl/diody-led/19985-zestaw-diod-led-5mm-justpi-30szt-5904422329259.html
 BZ1,Buzzer,1,12x9.5mm Active Buzzer (RM.7.5),https://www.amazon.com/dp/B0F1KCZGZG/ref=twister_B0FP83KQTB?_encoding=UTF8&th=1
 J1,ISP,1,ISP programming interface,https://www.adafruit.com/product/2822
 none,none,1,Adafruit 4090 Male Header,https://www.adafruit.com/product/400
