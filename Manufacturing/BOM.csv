@@ -1,6 +1,6 @@
 Designator,Value,Quantity,Description,Link
 U1,ATmega328P-P,1,Microcontroller (DIP-28),https://botland.com.pl/avr-w-obudowie-tht/1264-mikrokontroler-avr-atmega328p-u-dip-5903351249928.html
-MQ-2,MQ-2,1,Gas Sensor Module,https://allegro.pl/listing?string=mq-2%20czujnik&srsltid=AfmBOorTqXyfkc6gAjhByrz3Ye-6G_k_z49tJdmU1Vol_lwEHR-8GLzU
+MQ-2,MQ-2,1,Gas Sensor Module,https://allegro.pl/oferta/czujnik-dymu-i-gazow-latwopalnych-mq-2-modul-detekcji-5v-150ma-50-c-15262241063?bi_s=ads&bi_m=productlisting:desktop:query&bi_c=YjhjZGQ1NzEtMzE2ZC00ZWUzLWFkNDYtMWUyYmJkYWIyNTA2AA&bi_t=ape&referrer=proxy&emission_unit_id=a291bb6e-6e97-41b4-b718-58dd6360974a
 J2,Conn_01x08,1,USB Type C Breakout Board - Downstream Connection,https://www.adafruit.com/product/4090
 R1-R3,220R,3,Resistor for LEDs,https://botland.com.pl/rezystory-przewlekane/20014-rezystor-justpi-tht-cf-weglowy-14w-220-30szt-5904422329020.html
 R4,10K,1,Pull-up Resistor,https://botland.com.pl/rezystory-przewlekane/20150-rezystor-justpi-tht-cf-weglowy-14w-10k-30szt-5904422329280.html
