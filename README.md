@@ -1,7 +1,7 @@
 # MQ-2 Gas Detector V1.0
 It's my first custom PCB project created as part of the Hack Club Fallout.
 It is designed to detect gas leaks and potential fire hazards.
-This project also contains a case [Click here](3d_models/case)
+This project also contains a case [Click here](3d_models/case) (https://www.tinkercad.com/things/fKrMFWUH5aw-gas-detector-case-top, https://www.tinkercad.com/things/3uvmYwMqHGP-gas-detector-case-bottom)
 
 I made this because I wanted to practice making PCBs and create a practical safety device.
 I use it by letting it sit and monitor gas levels in my room to ensure I'm in a safe environment.
@@ -27,9 +27,6 @@ Total for everything is ≈ 32.76USD
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
-- PCB Color: Black
-- Silkscreen: White
-- Copper Layers: 2
 
 ## 📖 Fallout Zine Page
 ![Zine Page](images/zine_page.png)
