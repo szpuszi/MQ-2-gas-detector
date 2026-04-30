@@ -23,7 +23,7 @@ You will also need:
 - Glue (for the case, it needs to stick to plastic)
 - cutting pliers
 
-Total for everything is ≈ 32.76USD
+Total for everything is ≈ 40USD
 
 ### Manufacturing Notes🏭:
 <small> All files required for production are included [here](Manufacturing/Manufacturing%20Files.zip) </small>
