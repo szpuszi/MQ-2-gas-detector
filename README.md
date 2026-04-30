@@ -2,7 +2,6 @@
 It's my first custom PCB project created as part of the Hack Club Fallout.
 It is designed to detect gas leaks and potential fire hazards.
 This project also contains a case.
-Here is a link to tinkercad https://www.tinkercad.com/things/fKrMFWUH5aw-gas-detector
 
 I made this because I wanted to practice making PCBs and create a practical safety device.
 I use it by letting it sit and monitor gas levels in my room to ensure I'm in a safe environment.
